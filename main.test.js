@@ -74,3 +74,4 @@ test('for compHex FFFFFF the expected 14 colors', async () => {
     expect(received[i]).toBe(e);
   });
 });
+//Comit Test//
